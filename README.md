@@ -4,6 +4,12 @@ An intelligent, production-ready Retrieval-Augmented Generation (RAG) system bui
 
 This application allows students and researchers to upload academic PDF documents, automatically indexes and vectorizes the text content, and enables precise semantic Q&A with exact source page citations.
 
+## 📸 Application Preview
+
+Here is the interactive Swagger UI running locally:
+
+![AI Academic Mentor Swagger UI](assets/swagger-screenshot.png)
+
 ## 🚀 Key Features
 
 - **Document Ingestion & Processing**: Automatically parses PDF documents page-by-page.
